@@ -22,7 +22,7 @@ Steps :
 15. In flutter terminal run run_flutter.bat
 
 
-Note: This project was created in Android Studio by clicking on new Flutter Project button (flutter plugin) and for python, i switched back to VSCode.
+Note: This project was created in Android Studio by clicking on new Flutter Project button (flutter plugin).
 Note : If you are getting errors after running the flutter app saying that they are due to JDK 21, Please follow following steps:
 
 1. Basically, you need this in app\build.gradle:
